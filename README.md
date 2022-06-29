@@ -1,4 +1,7 @@
+
+![FLEXBOX_TUT](https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/Capture.PNG)
 [NASA's DSN##DEEP_SPACE_NETWORK](https://www.nasa.gov/directorates/heo/scan/services/networks/deep_space_network/about)
+
 ![computr](https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_computer.jpg?itok=D3R-XZiU)
 
 ## Welcome to GitHub Pages
