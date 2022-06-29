@@ -1,3 +1,5 @@
+![computr](https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_computer.jpg?itok=D3R-XZiU)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThakaRashard/homeschool/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
