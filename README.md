@@ -1,7 +1,13 @@
+[PRESENTiNG_YOUR_WORK::PORTFOLiO_EXAMPLE MilliAGENCY](https://www.milli.agency/)
+
 [PRESENTiNG_YOUR_WORK::PORTFOLiO_EXAMPLE_COLiN MOY#](https://www.colin-moy.com/)
+
 [PRESENTiNG_YOUR_WORK::PORTFOLiO_EXAMPLE_ViRGiNiA##OROSA's##WEB_DESIGN_##PORTFOLiO](https://www.mobygames.com/images/covers/l/146929-low-g-man-nes-front-cover.jpg)
+
 [The launch of SEGA GENESIS (1989)](https://www.youtube.com/watch?v=CKj_4ArfcYg)
+
 ![Deltron 3030 - Deltron 3030 (2000) (Full Album) (HQ)](https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/fe/c5/55/fec5554c-68db-f9fb-3092-f903f4d0ed86/mzi.ehjoardc.jpg/600x600bf-60.jpg)
+
 [1991 TV News Segment on Nintendo, Sega, & NEC Gaming Era](https://www.youtube.com/watch?v=7R9AfJH95xo)
 [News clip: Classic 1991 NES footage with NWC champ Robin Mihara; Nintendo game counselors](https://www.youtube.com/watch?v=QZroKmkVGxk)
 ![KiD_KOALA##12BiT_BLUES](https://f4.bcbits.com/img/a1909814836_5.jpg)
