@@ -1,8 +1,11 @@
+
+[The launch of SEGA GENESIS (1989)](https://www.youtube.com/watch?v=CKj_4ArfcYg)
+![Deltron 3030 - Deltron 3030 (2000) (Full Album) (HQ)](https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/fe/c5/55/fec5554c-68db-f9fb-3092-f903f4d0ed86/mzi.ehjoardc.jpg/600x600bf-60.jpg)
+[1991 TV News Segment on Nintendo, Sega, & NEC Gaming Era](https://www.youtube.com/watch?v=7R9AfJH95xo)
 [News clip: Classic 1991 NES footage with NWC champ Robin Mihara; Nintendo game counselors](https://www.youtube.com/watch?v=QZroKmkVGxk)
 ![KiD_KOALA##12BiT_BLUES](https://f4.bcbits.com/img/a1909814836_5.jpg)
 ![FLEXBOX_TUT](https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/Capture.PNG)
 [NASA's DSN##DEEP_SPACE_NETWORK](https://www.nasa.gov/directorates/heo/scan/services/networks/deep_space_network/about)
-
 ![computr](https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_computer.jpg?itok=D3R-XZiU)
 
 ## Welcome to GitHub Pages
