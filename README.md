@@ -1,3 +1,5 @@
+[TRAiNiNG_ViDEO##POWER OF CHOICE Nintendo Demonstrator Program (##VHS##Rip)1991 Nov](https://www.youtube.com/watch?v=_PaMvtWWQ_8)
+
 [PRESENTiNG_YOUR_WORK::PORTFOLiO_EXAMPLE MilliAGENCY](https://www.milli.agency/)
 
 [PRESENTiNG_YOUR_WORK::PORTFOLiO_EXAMPLE_COLiN MOY#](https://www.colin-moy.com/)
