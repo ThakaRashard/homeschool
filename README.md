@@ -1,3 +1,4 @@
+[News clip: Classic 1991 NES footage with NWC champ Robin Mihara; Nintendo game counselors](https://www.youtube.com/watch?v=QZroKmkVGxk)
 ![KiD_KOALA##12BiT_BLUES](https://f4.bcbits.com/img/a1909814836_5.jpg)
 ![FLEXBOX_TUT](https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/Capture.PNG)
 [NASA's DSN##DEEP_SPACE_NETWORK](https://www.nasa.gov/directorates/heo/scan/services/networks/deep_space_network/about)
