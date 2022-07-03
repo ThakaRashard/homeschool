@@ -7,7 +7,7 @@
 li a:hover {color: #c9ff23;} 
 ```
 ![Fun House - Snow Day - J.D. Roth / Ashley & Brian vs Chris & Sarah
-12,999 views](https://github.com/ThakaRashard/bubblegumpop/blob/gh-pages/img/Screenshot%202022-07-02%204.36.06%20PM.png)
+12,999 views](https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/Screenshot%202022-07-02%204.36.06%20PM.png)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F137IANXaF4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
