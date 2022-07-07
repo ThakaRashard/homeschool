@@ -1,6 +1,56 @@
 <style>
+  .post-content {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* Set content grid so it respects order values */
+.post-content {
+	display: grid;
+}
+
+/*
+Style image if there is an image right after the heading
+Use order to put it above the heading
+Relative position for absolute caption
+*/
+.post-content h1 + .kg-image-card {
+	margin: 0 -24px;
+	order: -1;
+	position: relative;
+}
+
+/* Style image's caption if there is an image right after the heading */
+.post-content h1 + .kg-image-card figcaption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 1rem 1rem 1.2rem;
+	opacity: 0.5;
+	background: white;
+}
   li a:hover { color: #F213AB; } 
 </style>  
+
+<div class="post-content">
+	<h1>Post title</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+		<a href="https://www.youtube.com/watch?v=JlbMzBnfnzM"><img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg" <a> <class="kg-image">
+		<figcaption>
+		##GRANTURiSMO7##DRiViNG_SiMULATOR##	
+			</figcaption>
+	</figure>
+	<p>Gran Turismo 7 (commonly abbreviated as GT7) is a racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. It is the eighth major release, the fourteenth game overall in the Gran Turismo video game series, the second game to be released on the PlayStation 4 and the first on PlayStation 5.[1] The game was released on the 4th of March, 2022, on both consoles. - https://gran-turismo.fandom.com/wiki/Gran_Turismo_7</p>
+</div>
+```
+Gran Turismo 7 (commonly abbreviated as GT7) is a racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. It is the eighth major release, the fourteenth game overall in the Gran Turismo video game series, the second game to be released on the PlayStation 4 and the first on PlayStation 5.[1] The game was released on the 4th of March, 2022, on both consoles. - https://gran-turismo.fandom.com/wiki/Gran_Turismo_7
+```
 
 ##_LAURA_HAS_APPROVED##_OF_SOME_CSS
 ```
