@@ -41,7 +41,7 @@ Relative position for absolute caption
 	<h1>Post title</h1>
 	<!-- {{content}} would be here, example rendered below -->
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-		<a href=""><img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg" </a> <class="kg-image">
+		<img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg"> <class="kg-image">
 		<figcaption>
 		[##GRANTURiSMO_BEHiND_THE_SCENES](https://www.youtube.com/watch?v=JlbMzBnfnzM)	
 			</figcaption>
