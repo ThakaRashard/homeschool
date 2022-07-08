@@ -5,7 +5,7 @@
 }
 
 img {
-	max-width: 100%;
+	width: 100%;
 }
 
 /* Set content grid so it respects order values */
@@ -36,18 +36,17 @@ Relative position for absolute caption
 }
 
 </style>  
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QESGXTFFZXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vlKZNKWEzoI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div class="post-content">
-	<h1>Post title</h1>
-	<!-- {{content}} would be here, example rendered below -->
+	<h1>##Gran_Turismo_7 - State of Play Deep Dive 4K | PS5, PS4</h1>
+	
 	<figure class="kg-card kg-image-card kg-card-hascaption">
 		<img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg"> <class="kg-image">
-		<figcaption>
-		<a href="https://www.youtube.com/watch?v=JlbMzBnfnzM" alt="GRANTURiSMO_BEHiND_THE_SCENES" > 
-		GRANTURiSMO_BEHiND_THE_SCENES </a>
-			</figcaption>
+		
 	</figure>
-	<p>Gran Turismo 7 (commonly abbreviated as GT7) is a racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. It is the eighth major release, the fourteenth game overall in the Gran Turismo video game series, the second game to be released on the PlayStation 4 and the first on PlayStation 5.[1] The game was released on the 4th of March, 2022, on both consoles. - https://gran-turismo.fandom.com/wiki/Gran_Turismo_7</p>
+	<p><a href="https://www.youtube.com/watch?v=JlbMzBnfnzM" alt="GRANTURiSMO_BEHiND_THE_SCENES" > 
+		Gran_Turismo_7 - State of Play Deep Dive  </a>Gran Turismo 7 (commonly abbreviated as GT7) is a racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. It is the eighth major release, the fourteenth game overall in the Gran Turismo video game series, the second game to be released on the PlayStation 4 and the first on PlayStation 5.[1] The game was released on the 4th of March, 2022, on both consoles. - https://gran-turismo.fandom.com/wiki/Gran_Turismo_7</p>
 </div>
 
 
