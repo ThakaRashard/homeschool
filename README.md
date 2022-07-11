@@ -34,8 +34,108 @@ Relative position for absolute caption
 	opacity: 0.5;
 	background: white;
 }
+	
+	.twoPanelSpread {
+  
+  background-color: #00db46; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #e66250, #ff80cc);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+  background-color: #2470FF;
+  width: 100%;
+}
+
+.leftColumn img {
+  
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+.rightColumn img { 
+ 
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+#row_image  {
+	display: flex;
+	border: 5px solid #ccc;
+	background: #666;
+  max-width: 100%;
+  padding: 50px;
+  max-height: 100%;
+    background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
+  background-repeat: repeat;
+	}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
 
 </style>  
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.cnet.com/a/img/resize/ecd3bef43089bec5c22acd15f8371441a1a4d206/hub/2013/12/19/d2c0c796-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_01.jpg?auto=webp&width=1200" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.cnet.com/a/img/resize/5c011b08402cbae781badbc096713aeabab525af/hub/2013/12/19/d2ea55a6-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_14.jpg?auto=webp&width=1200" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.cnet.com/a/img/resize/f1364e8eca5f3230a4a2ac4d3ed87992415a4058/hub/2013/12/19/d2e3153e-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_07.jpg?auto=webp&width=1200" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.cnet.com/a/img/resize/60d12bfea2cd83942e02adcb6e326a2f0c7e5eeb/hub/2013/12/19/d2f63812-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_25.jpg?auto=webp&width=1200" >
+      </div>
+    </div>
+  </div>
+</div>
 [##What_Machine_Learning is ::KiD_LEVEL_EXPLAiNATiON::##T_I_L##](https://www.idtech.com/blog/intro-to-machine-learning-kids-teens)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QESGXTFFZXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vlKZNKWEzoI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
