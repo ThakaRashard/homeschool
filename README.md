@@ -107,7 +107,7 @@ img {
 
 
 </style>  
-
+[The paradox of the female muse](https://www.varsity.co.uk/arts/23173)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -143,7 +143,7 @@ img {
 	<h1>##Gran_Turismo_7 - State of Play Deep Dive 4K | PS5, PS4</h1>
 	
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-		<img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg"> <class="kg-image">
+		<img src="https://raw.githubusercontent.com/ThakaRashard/homeschool/main/img/GRAN_TURiSMO7_SIMULATOR.jpg"> 
 		
 	</figure>
 	<p><a href="https://www.youtube.com/watch?v=JlbMzBnfnzM" alt="GRANTURiSMO_BEHiND_THE_SCENES" > 
