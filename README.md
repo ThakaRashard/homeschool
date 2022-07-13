@@ -107,6 +107,13 @@ img {
 
 
 </style>  
+[WHAT IS HUMAN TRAFFICKING?](https://exoduscry.com/about/human-trafficking/)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EVYUMefUgVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YFUal3WO_h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_zpgAZqCD1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/20x9xEzlODU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 [The paradox of the female muse](https://www.varsity.co.uk/arts/23173)
 <div class='twoPanelSpread'>
   <div class='row'>
