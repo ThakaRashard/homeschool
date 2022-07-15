@@ -107,6 +107,8 @@ img {
 
 
 </style>  
+<img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> 
+[Make a website to share a SMART goal](https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal)
 [WHAT IS HUMAN TRAFFICKING?](https://exoduscry.com/about/human-trafficking/)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EVYUMefUgVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YFUal3WO_h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
