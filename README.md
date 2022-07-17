@@ -107,7 +107,10 @@ img {
 
 
 </style>
+
+![mir70001](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapside.jpg)
 ![mir7000](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/maptop.jpg)
+![mir70002](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapback.jpg)
 ![n90s_4_5anDy](https://i.ytimg.com/vi/ZrfQec0w2g0/maxresdefault.jpg)
 [Russia: Feminist activist acquitted of absurd ‘pornography’ charges](https://www.amnesty.org/en/latest/news/2022/07/russia-feminist-activist-acquitted-of-absurd-pornography-charges/)
 ![D90_4_ME_an_LAUREN](https://cdn-4.nikon-cdn.com/e/Q5NM96RZZo-YRYNeYvAi9beHK4x3L-8mX69Pbfujs6tL2-K7LwSA7Nl4qcNSPd5o/Views/25446_D90_top.png)
