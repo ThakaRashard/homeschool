@@ -108,6 +108,24 @@ img {
 
 </style>  
 
+
+<a href="https://youtu.be/n9dHCUI1lEs"><img src="https://m.media-amazon.com/images/I/718Dp2Ro37L._SS500_.jpg"> </a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/9kS_F4pyE8EGUKg2T-ivltKtusmhpDQfjXaWcPcdY4U/rs:fit/g:sm/q:90/h:510/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkz/MzQ1LTE1Nzk0MTky/MDAtNjU2MC5qcGVn.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/9kS_F4pyE8EGUKg2T-ivltKtusmhpDQfjXaWcPcdY4U/rs:fit/g:sm/q:90/h:510/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkz/MzQ1LTE1Nzk0MTky/MDAtNjU2MC5qcGVn.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+![THE_BEASTiE_BOYS__3MCs_n_1DJ](https://i.discogs.com/4mknJX3CNUPFOt7AYg8p9XwbPAyC0XsbCXoUvsPgTec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkz/MzQ1LTE1Nzk0MTky/MDEtNDE3NC5qcGVn.jpeg)
+
 [Herbie Hancock - Monster (1980)](https://www.youtube.com/results?search_query=herbie+hancock+monster)
 
 ```
