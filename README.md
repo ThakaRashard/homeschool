@@ -107,6 +107,23 @@ img {
 
 
 </style>  
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://a.allegroimg.com/s512/1123de/4698a69a4b0299c9c38f79313583/BAHAMADIA-KOLLAGE-CD-GURU-DJ-PREMIER-THE-ROOTS-Wykonawca-BAHAMADIA" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://1.bp.blogspot.com/-P87SuaQ97uY/YG_NcytRH4I/AAAAAAABi_Y/Eu9Q3XEGBHUJ4qCeYDTq4E7Fk6nAxOhzACLcBGAsYHQ/s928/Kollage%2BVibe%2B2008%2BAug.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+![](https://a.allegroimg.com/s512/1123de/4698a69a4b0299c9c38f79313583/BAHAMADIA-KOLLAGE-CD-GURU-DJ-PREMIER-THE-ROOTS-Wykonawca-BAHAMADIA)
+<iframe src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A4ioG1W3KU4WBhYlwEBp7BA" width="100%" height="380" frameborder="0" style="border-radius: 12px;"allowtransparency="true" allow="encrypted-media"></iframe>
+[How to Lie with Rape Statistics: America’s Hidden Rape Crisis](https://www.cssportal.com/css-flexbox-generator/)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ptIcert_Ra8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Design a web page to present a personal narrative outline](https://edex.adobe.com/teaching-resources/design-a-web-page-to-present-a-personal-narrative-outline)
 <a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> </a>
