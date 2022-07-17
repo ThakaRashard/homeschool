@@ -107,8 +107,8 @@ img {
 
 
 </style>  
-
-<a href="https://www.kenrockwell.com/nikon/d90.htm"><img src="https://www.kenrockwell.com/nikon/d90/d90_top-600.jpg"> </a>
+[Russia: Feminist activist acquitted of absurd ‘pornography’ charges](https://www.amnesty.org/en/latest/news/2022/07/russia-feminist-activist-acquitted-of-absurd-pornography-charges/)
+![D90_4_ME_an_LAUREN](https://cdn-4.nikon-cdn.com/e/Q5NM96RZZo-YRYNeYvAi9beHK4x3L-8mX69Pbfujs6tL2-K7LwSA7Nl4qcNSPd5o/Views/25446_D90_top.png)
 <a href="https://youtu.be/n9dHCUI1lEs"><img src="https://m.media-amazon.com/images/I/718Dp2Ro37L._SS500_.jpg"> </a>
 <div class='twoPanelSpread'>
   <div class='row'>
