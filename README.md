@@ -108,7 +108,7 @@ img {
 
 </style>  
 
-![d90](https://www.kenrockwell.com/nikon/d90/d90_top-600.jpg)
+<a href="https://www.kenrockwell.com/nikon/d90.htm"><img src="https://www.kenrockwell.com/nikon/d90/d90_top-600.jpg"> </a>
 <a href="https://youtu.be/n9dHCUI1lEs"><img src="https://m.media-amazon.com/images/I/718Dp2Ro37L._SS500_.jpg"> </a>
 <div class='twoPanelSpread'>
   <div class='row'>
