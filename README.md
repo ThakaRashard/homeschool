@@ -107,7 +107,7 @@ img {
 
 
 </style>
-
+![mir70003](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/images/mapviewinfo.jpg)
 ![mir70001](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapside.jpg)
 ![mir7000](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/maptop.jpg)
 ![mir70002](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapback.jpg)
