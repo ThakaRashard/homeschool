@@ -118,7 +118,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-<iframe src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A4ioG1W3KU4WBhYlwEBp7BA" width="100%" height="380" frameborder="0" style="border-radius: 12px;"allowtransparency="true" allow="encrypted-media"></iframe>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc453ece1ebb64f08283bc6/vsco5fc453ef3bf35.jpg" >
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
