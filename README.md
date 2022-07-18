@@ -111,6 +111,9 @@ max-width: 100%;
   -ms-transform: rotate(20deg); /* IE 9 */
   transform: rotate(20deg);
 	 z-index: -1;
+  border: 1px solid yellow;
+  margin: 50px;
+  transform: rotate(20deg);
 }
 
 
