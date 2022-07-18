@@ -105,8 +105,8 @@ img {
 }
 
 div.a {
-  width: 150px;
-  height: 80px;
+max-width: 100%;
+    max-height: 100%;
   background-color: yellow;
   -ms-transform: rotate(20deg); /* IE 9 */
   transform: rotate(20deg);
