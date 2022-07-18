@@ -110,10 +110,12 @@ max-width: 100%;
   background-color: yellow;
   -ms-transform: rotate(20deg); /* IE 9 */
   transform: rotate(20deg);
+	 z-index: -1;
 }
 
 
 </style>
+[ETHiO_MUZiK](http://ethio-pain-music.blogspot.com/2013/)
 ![nr7000](https://nikonrumors.com/wp-content/uploads/2016/01/2016-Nikon-DSLR-camera-line.jpg)
 <h2>transform: rotate(20deg):</h2>
 <div class="a"><img src="https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-top.jpg"></div>
