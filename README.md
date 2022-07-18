@@ -114,6 +114,7 @@ max-width: 100%;
 
 
 </style>
+![nr7000](https://nikonrumors.com/wp-content/uploads/2016/01/2016-Nikon-DSLR-camera-line.jpg)
 <h2>transform: rotate(20deg):</h2>
 <div class="a"><img src="https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-top.jpg"></div>
 ![mir70003](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/images/mapviewinfo.jpg)
