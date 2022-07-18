@@ -112,7 +112,8 @@ max-width: 100%;
   transform: rotate(20deg);
 	 z-index: -1;
   border: 1px solid yellow;
-  margin: 50px;
+  margin: 100px;
+	padding:25px;
   transform: rotate(20deg);
 }
 
