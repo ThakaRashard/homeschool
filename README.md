@@ -115,7 +115,7 @@ div.a {
 
 </style>
 <h2>transform: rotate(20deg):</h2>
-<div class="a"><img src="https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-top.jpg"</div>
+<div class="a"><img src="https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-top.jpg"></div>
 ![mir70003](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/images/mapviewinfo.jpg)
 ![mir70001](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapside.jpg)
 ![mir7000](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/maptop.jpg)
