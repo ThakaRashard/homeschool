@@ -119,6 +119,9 @@ max-width: 100%;
 
 
 </style>
+
+[AdventurePi: The Ultimate DIY Raspberry Pi Portable Arcade Cabinet!](https://www.youtube.com/watch?v=UJyR60wn1Ec)
+[How to Build a MIDI controller with an Arduino: The DIY MIDI Controller Workshop 2.0](https://www.youtube.com/watch?v=kESotTqQgm4)
 [ETHiO_MUZiK](http://ethio-pain-music.blogspot.com/2013/)
 ![nr7000](https://nikonrumors.com/wp-content/uploads/2016/01/2016-Nikon-DSLR-camera-line.jpg)
 <h2>transform: rotate(20deg):</h2>
