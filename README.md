@@ -119,7 +119,8 @@ max-width: 100%;
 
 
 </style>
-
+[Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS](https://www.youtube.com/watch?v=FNh-twGgHaM)
+[HOW TO: Jumbo Braided Bun! ( Rubber band method) | Type 4 Hair](https://www.youtube.com/watch?v=aYAD1YYdIOQ)
 [AdventurePi: The Ultimate DIY Raspberry Pi Portable Arcade Cabinet!](https://www.youtube.com/watch?v=UJyR60wn1Ec)
 [How to Build a MIDI controller with an Arduino: The DIY MIDI Controller Workshop 2.0](https://www.youtube.com/watch?v=kESotTqQgm4)
 [ETHiO_MUZiK](http://ethio-pain-music.blogspot.com/2013/)
