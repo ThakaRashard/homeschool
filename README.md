@@ -119,6 +119,7 @@ max-width: 100%;
 
 
 </style>
+[ Lorde - Team (One hour loop)](https://www.youtube.com/watch?v=iGOiJnM-TxA) <~ CONCENTRATiON_LOOP
 [Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS](https://www.youtube.com/watch?v=FNh-twGgHaM)
 [HOW TO: Jumbo Braided Bun! ( Rubber band method) | Type 4 Hair](https://www.youtube.com/watch?v=aYAD1YYdIOQ)
 [AdventurePi: The Ultimate DIY Raspberry Pi Portable Arcade Cabinet!](https://www.youtube.com/watch?v=UJyR60wn1Ec)
