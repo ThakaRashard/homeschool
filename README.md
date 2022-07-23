@@ -120,6 +120,9 @@ max-width: 100%;
 
 </style>
 
+[DEAR_SARTU](https://www.youtube.com/watch?v=2wpBD_2Mmm4)
+[Kash Doll – Keisha Vs. Kash Doll](https://www.discogs.com/release/7898965-Kash-Doll-Keisha-Vs-Kash-Doll)
+[Layout and the containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block)
 ![OLYMPUS_PEN_F](https://m.media-amazon.com/images/I/71SmFarSLPL._AC_SL1500_.jpg)
 [PHOTOJOJO_CAMERA_ACCESSORiES_FO_DA_QUiRKY](https://photojojo.bigcartel.com/products)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptm04Fogkf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
