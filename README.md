@@ -119,7 +119,7 @@ max-width: 100%;
 
 
 </style>
-[Try the awesome hollywood-activate command!](https://www.reddit.com/r/Kalilinux/comments/ttsz8n/try_the_awesome_hollywoodactivate_command
+[Try the awesome hollywood-activate command](https://www.reddit.com/r/Kalilinux/comments/ttsz8n/try_the_awesome_hollywoodactivate_command)
 ![RASPBERRY_Pi_KALi](https://www.kali.org/blog/kali-linux-2022-2-release/images/arm-xfce-light-panel-theme.png)
 [A FREE AND OPEN OPERATiNG SYSTEM_FOR_CREATiVE_PEOPLE::UBUNTU_STUDiO::](https://ubuntustudio.org/)
 [DEAR_KALi##LETS_RUN_OUR_SHOW_FROM_THIS_OPERATING_SYSTEM](https://www.kali.org/)
