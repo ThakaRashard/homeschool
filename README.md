@@ -119,6 +119,11 @@ max-width: 100%;
 
 
 </style>
+[A FREE AND OPEN OPERATiNG SYSTEM_FOR_CREATiVE_PEOPLE::UBUNTU_STUDiO::](https://ubuntustudio.org/)
+[DEAR_KALi##LETS_RUN_OUR_SHOW_FROM_THIS_OPERATING_SYSTEM](https://www.kali.org/)
+[BunsenLabs Linux Lithium is a distribution offering a light-weight and easily customizable Openbox desktop. The project is a community continuation of CrunchBang Linux.
+The current release is derived from Debian 10.](https://www.bunsenlabs.org/index.html#pid=11)
+[::OS_BOXES::READY_BUILT_ViRTUAL_MACHiNES::VMWARE::ViRTUALBOX::](https://www.osboxes.org/)
 [ Lorde - Team (One hour loop)](https://www.youtube.com/watch?v=iGOiJnM-TxA) <~ CONCENTRATiON_LOOP
 [Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS](https://www.youtube.com/watch?v=FNh-twGgHaM)
 [HOW TO: Jumbo Braided Bun! ( Rubber band method) | Type 4 Hair](https://www.youtube.com/watch?v=aYAD1YYdIOQ)
