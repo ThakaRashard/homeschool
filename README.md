@@ -119,10 +119,11 @@ max-width: 100%;
 
 
 </style>
-[Kano - I'm Ready iiiiiiiii 1980](https://youtu.be/_LvTpjK-MEY)
+# (｡◕‿‿◕｡)
+[Kano - I'm Ready iiiiiiiii 1980](https://youtu.be/_LvTpjK-MEY) 
 [BMX_BEGiNNERS_MANUAL](http://www.learnbmxracing.com/includes/bmx-beginner-manual.pdf)
 [LEARN_BMX_RACiNG](http://www.learnbmxracing.com/)
-![LEARN_BMX_RACiNG](http://www.learnbmxracing.com/images/logo.svg)
+<img src="http://www.learnbmxracing.com/images/logo.svg" >
 [LEARN_BMX](https://www.learnbmx.com/)
 [History of BMX Bikes & Tracks](https://www.youtube.com/watch?v=r4efZAEyZ7o)
 [KKDA - Tom Joyner](https://www.youtube.com/watch?v=TCUxGoexjQw)
