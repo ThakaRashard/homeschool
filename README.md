@@ -120,6 +120,7 @@ max-width: 100%;
 
 </style>
 [Kano - I'm Ready iiiiiiiii 1980](https://youtu.be/_LvTpjK-MEY)
+[BMX_BEGiNNERS_MANUAL](http://www.learnbmxracing.com/includes/bmx-beginner-manual.pdf)
 [LEARN_BMX_RACiNG](http://www.learnbmxracing.com/)
 ![LEARN_BMX_RACiNG](http://www.learnbmxracing.com/images/logo.svg)
 [LEARN_BMX](https://www.learnbmx.com/)
