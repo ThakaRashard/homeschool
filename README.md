@@ -120,6 +120,11 @@ max-width: 100%;
 
 </style>
 # (｡◕‿‿◕｡)
+[The End of Ford in America](https://www.youtube.com/watch?v=Ppd8ZxvAJKc)
+[5 Things You Should Never Do in an Automatic Transmission Car](https://www.youtube.com/watch?v=sDFOr68dziY)
+[Stop Watching the Election and Riots, All Americans Need to Hear This](https://www.youtube.com/watch?v=ZS_LNpQZcug)
+[Nick's MAMMOTH *767WHP* Kenne Bell Terminator Cobra Vs. EVERYTHING at Powercruise USA 2020](https://www.youtube.com/watch?v=6aV7vKl-b-M)
+[NASTY 530 Horsepower Terminator Cobra Review!](https://www.youtube.com/watch?v=giZY9ObQjk0)
 [GRAMMAR_GiRL____LAURA_PLEASE_SHARE_WiTH_ESL](https://www.quickanddirtytips.com/grammar-girl)
 [QUiCK_and_DiRTY_TiPS](https://www.quickanddirtytips.com/)
 [Motown Greatest Hits](https://www.youtube.com/watch?v=lgVo2zJY-uc)
