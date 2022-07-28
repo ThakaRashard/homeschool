@@ -120,6 +120,8 @@ max-width: 100%;
 
 </style>
 # (｡◕‿‿◕｡)
+[GRAMMAR_GiRL____LAURA_PLEASE_SHARE_WiTH_ESL](https://www.quickanddirtytips.com/grammar-girl)
+[QUiCK_and_DiRTY_TiPS](https://www.quickanddirtytips.com/)
 [Motown Greatest Hits](https://www.youtube.com/watch?v=lgVo2zJY-uc)
 [Kano - I'm Ready iiiiiiiii 1980](https://youtu.be/_LvTpjK-MEY) 
 [BMX_BEGiNNERS_MANUAL](http://www.learnbmxracing.com/includes/bmx-beginner-manual.pdf)
