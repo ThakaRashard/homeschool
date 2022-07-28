@@ -120,6 +120,11 @@ max-width: 100%;
 
 </style>
 # (｡◕‿‿◕｡)
+[Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
+[BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc) 
+[Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
+[Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
+[How To Graffiti Pieces: Everything You Need To Know!](https://youtu.be/ALvLLOHFfog)
 [Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
 [HOW TO EASILY SHADE GRAFFITI](https://www.youtube.com/watch?v=U9TL6Ot5wPc)
 [The End of Ford in America](https://www.youtube.com/watch?v=Ppd8ZxvAJKc)
