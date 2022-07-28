@@ -120,6 +120,7 @@ max-width: 100%;
 
 </style>
 # (｡◕‿‿◕｡)
+[Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
 [HOW TO EASILY SHADE GRAFFITI](https://www.youtube.com/watch?v=U9TL6Ot5wPc)
 [The End of Ford in America](https://www.youtube.com/watch?v=Ppd8ZxvAJKc)
 [5 Things You Should Never Do in an Automatic Transmission Car](https://www.youtube.com/watch?v=sDFOr68dziY)
