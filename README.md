@@ -120,6 +120,8 @@ max-width: 100%;
 
 </style>
 # (｡◕‿‿◕｡)
+[Graffiti Session: APASHE](https://youtu.be/tGZ2_M-pf78)
+[Graffiti Session: TASTE](https://youtu.be/HOKoouQ6e-o)
 [Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
 [BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc) 
 [Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
