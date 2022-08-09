@@ -140,6 +140,7 @@ max-width: 100%;
 
 <img src="https://pbs.twimg.com/media/DLhss_7WAAA62IM?format=jpg&name=small" >
 
+[The X-Ecutioners Built From Scratch 2002 Full Album](https://www.youtube.com/watch?v=VAyuCnX_bK8)
 [Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
 [Rob Swift - I'm Leaving](https://www.youtube.com/watch?v=fushfsow-tw)
 
