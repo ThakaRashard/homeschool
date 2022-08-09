@@ -132,6 +132,22 @@ max-width: 100%;
 <img src="https://mksd.jp/honeyF.gif">
 <img src="https://mksd.jp/alfadental_730.gif">
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        
+  </div>
+  </div>
+  <div class='panelColumn'>
+  <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        
+  </div>
+   </div>
+  </div>
+</div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
