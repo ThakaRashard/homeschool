@@ -121,8 +121,26 @@ max-width: 100%;
 </style>
 # (｡◕‿‿◕｡)
 <img src="https://mksd.jp/honeyF.gif">
-<img src="https://mksd.jp/rabbit35_720px.gif" >
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<img src="https://mksd.jp/rabbit35_720px.gif" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://mksd.jp/rabbit35_720px.gif">
+      </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://pbs.twimg.com/media/DLhss_7WAAA62IM?format=jpg&name=small" >
+
+[Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
 [Rob Swift - I'm Leaving](https://www.youtube.com/watch?v=fushfsow-tw)
 
 
@@ -153,6 +171,7 @@ max-width: 100%;
 [TOM_JOYNER_retired_DJ_STUDY](https://www.youtube.com/watch?v=kzICmAU-kPk)
 [GT Performer BMX ReSToRE!!](https://youtu.be/BQ_esbBSsgA)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/341550891&color=%234fabff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/ingress-burning-man-sunrise-set-2017" title="Ingress - Burning Man Sunrise Set 2017" target="_blank" style="color: #cccccc; text-decoration: none;">Ingress - Burning Man Sunrise Set 2017</a></div>
+
 [ BMXPlus: 101 Freestyle Tricks](https://youtu.be/gMNThUIUfl4)
 [ BMXPlus: RadTV - The Sequel](https://youtu.be/mPNEJCR1Reo)
 [ BMXPlus: Freestyles Raddest Tricks 1985](https://youtu.be/L9-KhUSCQQE)
@@ -162,14 +181,15 @@ max-width: 100%;
 ![OLYMPUS_PEN_F](https://m.media-amazon.com/images/I/71SmFarSLPL._AC_SL1500_.jpg)
 [PHOTOJOJO_CAMERA_ACCESSORiES_FO_DA_QUiRKY](https://photojojo.bigcartel.com/products)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ptm04Fogkf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Gigajot Announces the World's Highest Resolution Photon Counting Sensor
-](http://image-sensors-world.blogspot.com/2022/04/gigajot-announces-worlds-highest.html)
+
+[Gigajot Announces the World's Highest Resolution Photon Counting Sensor](http://image-sensors-world.blogspot.com/2022/04/gigajot-announces-worlds-highest.html)
+
 [Try the awesome hollywood-activate command](https://www.reddit.com/r/Kalilinux/comments/ttsz8n/try_the_awesome_hollywoodactivate_command)
 ![RASPBERRY_Pi_KALi](https://www.kali.org/blog/kali-linux-2022-2-release/images/arm-xfce-light-panel-theme.png)
 [A FREE AND OPEN OPERATiNG SYSTEM_FOR_CREATiVE_PEOPLE::UBUNTU_STUDiO::](https://ubuntustudio.org/)
 [DEAR_KALi##LETS_RUN_OUR_SHOW_FROM_THIS_OPERATING_SYSTEM](https://www.kali.org/)
-[BunsenLabs Linux Lithium is a distribution offering a light-weight and easily customizable Openbox desktop. The project is a community continuation of CrunchBang Linux.
-The current release is derived from Debian 10.](https://www.bunsenlabs.org/index.html#pid=11)
+
+[BunsenLabs Linux Lithium is a distribution offering a light-weight and easily customizable Openbox desktop. The project is a community continuation of CrunchBang Linux.The current release is derived from Debian 10](https://www.bunsenlabs.org/index.html#pid=11)
 [::OS_BOXES::READY_BUILT_ViRTUAL_MACHiNES::VMWARE::ViRTUALBOX::](https://www.osboxes.org/)
 [ Lorde - Team (One hour loop)](https://www.youtube.com/watch?v=iGOiJnM-TxA) <~ CONCENTRATiON_LOOP
 [Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS](https://www.youtube.com/watch?v=FNh-twGgHaM)
@@ -180,6 +200,7 @@ The current release is derived from Debian 10.](https://www.bunsenlabs.org/index
 ![nr7000](https://nikonrumors.com/wp-content/uploads/2016/01/2016-Nikon-DSLR-camera-line.jpg)
 <h2>transform: rotate(20deg):</h2>
 <div class="a"><img src="https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-top.jpg"></div>
+
 ![mir70003](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/images/mapviewinfo.jpg)
 ![mir70001](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/mapside.jpg)
 ![mir7000](https://www.mir.com.my/rb/photography/hardwares/classics/maxxum7k/manual/images/maptop.jpg)
@@ -202,6 +223,7 @@ The current release is derived from Debian 10.](https://www.bunsenlabs.org/index
     </div>
   </div>
 </div>
+
 ![THE_BEASTiE_BOYS__3MCs_n_1DJ](https://i.discogs.com/4mknJX3CNUPFOt7AYg8p9XwbPAyC0XsbCXoUvsPgTec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkz/MzQ1LTE1Nzk0MTky/MDEtNDE3NC5qcGVn.jpeg)
 
 [Herbie Hancock - Monster (1980)](https://www.youtube.com/results?search_query=herbie+hancock+monster)
@@ -237,6 +259,7 @@ sudo apt-get install jenkins
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ptIcert_Ra8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Design a web page to present a personal narrative outline](https://edex.adobe.com/teaching-resources/design-a-web-page-to-present-a-personal-narrative-outline)
 <a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> </a>
+
 [Make a website to share a SMART goal](https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal)
 
 [WHAT IS HUMAN TRAFFICKING?](https://exoduscry.com/about/human-trafficking/)
