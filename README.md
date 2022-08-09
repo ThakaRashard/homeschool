@@ -121,6 +121,13 @@ max-width: 100%;
 </style>
 # (｡◕‿‿◕｡)
 
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##########################################HUMA
+{% endhighlight %}
+
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 <img src="https://mksd.jp/honeyF.gif">
 
