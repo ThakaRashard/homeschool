@@ -127,6 +127,48 @@ max-width: 100%;
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/EUoe7cf0HYw?list=PLV1bhAAf21cSxHaqUDyG1meQz3hUPi4eO" title="Taylor Swift - Gorgeous (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<table height="75%" width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+    <td bgcolor="#cccccc" height="67%" width="15%">&nbsp;</td>
+    <td bgcolor="#ffff00" height="67%" width="14%">&nbsp;</td>
+    <td bgcolor="#00ffff" height="67%" width="14%">&nbsp;</td>
+    <td bgcolor="#00ff00" height="67%" width="14%">&nbsp;</td>
+    <td bgcolor="#ff00ff" height="67%" width="14%">&nbsp;</td>
+    <td bgcolor="#ff0000" height="67%" width="14%">&nbsp;</td>
+    <td bgcolor="#0000ff" height="67%" width="15%">&nbsp;</td>
+</tr>
+<tr>
+    <td bgcolor="#0000ff" height="8%" width="15%">&nbsp;</td>
+    <td bgcolor="#131313" height="8%" width="14%">&nbsp;</td>
+    <td bgcolor="#ff00ff" height="8%" width="14%">&nbsp;</td>
+    <td bgcolor="#131313" height="8%" width="14%">&nbsp;</td>
+    <td bgcolor="#00ffff" height="8%" width="14%">&nbsp;</td>
+    <td bgcolor="#131313" height="8%" width="14%">&nbsp;</td>
+    <td bgcolor="#cccccc" height="8%" width="15%">&nbsp;</td>
+</tr>
+</table>
+
+
+<table height="25%" width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+    <td bgcolor="#083e59" height="25%" width="18%">&nbsp;</td>
+    <td bgcolor="#ffffff" height="25%" width="18%">&nbsp;</td>
+    <td bgcolor="#3a007e" height="25%" width="18%">&nbsp;</td>
+<!--     <td bgcolor="#131313" height="25%" width="18%">&nbsp;</td>
+    <td bgcolor="#000000" height="25%" width="5%">&nbsp;</td>
+    <td bgcolor="#131313" height="25%" width="5%">&nbsp;</td>
+    <td bgcolor="#262626" height="25%" width="5%">&nbsp;</td>
+    <td bgcolor="#131313" height="25%" width="13%">&nbsp;</td> -->
+<!--     <td bgcolor="#131313" height="25%" width="46%" align="center" valign="middle"><font face="verdana, san-serif" size="+3"  color="#00ff00">404&nbsp;&nbsp;&nbsp;&nbsp;<blink>12:00</blink></font></td> -->
+
+    <td bgcolor="#131313" height="25%" width="20%" align="right" valign="middle"><font face="verdana, san-serif" size="+3" color="#00ff00"><!-- 404 -->&nbsp;&nbsp;</font></td>
+
+    <td bgcolor="#262626" height="25%" width="26%" align="center" valign="middle"><div id="bar" style="color:#00ff00"><font face="verdana, san-serif" size="+3"><blink>12:00</blink></font></div></td>
+
+</tr>
+</table>
+
 <img src="https://mksd.jp/Partner_700px.gif" >
 <img src="https://mksd.jp/poco.gif">
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="LAURA_KATRINA_iM_SO_HAPPY_JENAVEVE_AN_CARLITO_TALKIN_AGAIN_DO_YOU_KNOW_WE_WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
